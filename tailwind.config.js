@@ -12,6 +12,7 @@ module.exports = {
         extend: {
             fontFamily: {
                 sans: ['Nunito', ...defaultTheme.fontFamily.sans],
+                popins: ['Popins', ...defaultTheme.fontFamily.sans],
             },
         },
     },
